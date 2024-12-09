@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inventory System</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Inventory Management</h1>
+    <form id="inventory-form">  
+      <input type="text" id="item-name" placeholder="Item Name" required>
+      <input type="number" id="item-quantity" placeholder="Quantity" required>
+      <input type="text" id="item-category" placeholder="Category" required>
+      <button type="submit">Add Item</button>
+    </form>
+    <table id="inventory-table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Item Name</th>
+          <th>Quantity</th>
+          <th>Category</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Inventory items will be dynamically added here -->
+      </tbody>
+    </table>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
