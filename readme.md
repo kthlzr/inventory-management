@@ -13,7 +13,7 @@ An inventory management system built with **HTML**, **CSS**, and **JavaScript**.
 ## Screenshots
 
 ![Inventory Management Screenshot](https://via.placeholder.com/600x400)  
-*https://linux233.imgbb.com/*
+![Project Preview](https://i.ibb.co/fCSCvnk/inventorymanagement.png)
 
 ## How to Use
 
