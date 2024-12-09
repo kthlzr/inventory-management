@@ -18,4 +18,4 @@ An inventory management system built with **HTML**, **CSS**, and **JavaScript**.
 
 1. Clone the repository or download the project files:
    ```bash
-   git clone https://github.com/your-username/inventory-system.git
+   git clone https://github.com/kthlzr/inventory-system.git
